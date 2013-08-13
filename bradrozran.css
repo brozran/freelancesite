@@ -1,0 +1,13 @@
+body{
+  text-align: center;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  margin-left: 350px;
+  margin-right: 350px;
+  margin-top: 50px;
+  margin-bottom: 150px;
+  /*background-color: lightgreen;*/
+  background-image: paper-fibers.png;
+    background-size:100%;
+  }
+
+.roundededges{border-radius:10%;}
